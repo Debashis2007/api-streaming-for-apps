@@ -75,3 +75,10 @@ curl -s http://127.0.0.1:8000/health | jq
 ```
 
 curl -N -X POST http://127.0.0.1:8000/v1/chat/stream -H 'x-api-key: demo' -H 'Content-Type: application/json' -d '{"prompt":"hi"}'
+
+---
+
+**Copyright (c) 2026 Debashis Bhattacharjee. All Rights Reserved.**  
+Unauthorized copying or redistribution of this material is prohibited.  
+GitHub: [Debashis2007](https://github.com/Debashis2007)
+
