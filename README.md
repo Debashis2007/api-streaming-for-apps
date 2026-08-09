@@ -1,5 +1,7 @@
 # Use Case: API Streaming for Apps
 
+**YouTube walkthrough:** [Api Streaming For Apps — System Design #Shorts](https://youtu.be/4Ush4VcE7oc)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -48,6 +50,9 @@ Reuse ring buffer resume, backpressure, and idempotent finalize from **02**. Enf
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Api Streaming For Apps — System Design #Shorts](https://youtu.be/4Ush4VcE7oc)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
