@@ -1,5 +1,7 @@
 # Use Case: API Streaming for Apps
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Api Streaming For Apps — System Design #Shorts](https://youtu.be/4Ush4VcE7oc)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
