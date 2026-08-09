@@ -7,8 +7,8 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [02 — Streaming Token Delivery](./02-streaming-token-delivery.md)  
-**Also references:** [09 — Multi-model routing / API platform](./09-multi-model-routing-api-platform.md)
+**Parent system design:** [02 — Streaming Token Delivery](https://github.com/Debashis2007/api-streaming-for-apps/blob/main/02-streaming-token-delivery.md)  
+**Also references:** [09 — Multi-model routing / API platform](https://github.com/Debashis2007/api-streaming-for-apps/blob/main/09-multi-model-routing-api-platform.md)
 
 ## Users & problem
 

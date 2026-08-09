@@ -1,7 +1,7 @@
 # Design: API Streaming for Apps
 
 **Project:** `api-streaming-for-apps`  
-**Parent system design:** [02 — Streaming Token Delivery](../02-streaming-token-delivery.md) · [09 — Multi-Model Routing / API Platform](../09-multi-model-routing-api-platform.md)
+**Parent system design:** [02 — Streaming Token Delivery](https://github.com/Debashis2007/api-streaming-for-apps/blob/main/02-streaming-token-delivery.md) · [09 — Multi-Model Routing / API Platform](https://github.com/Debashis2007/api-streaming-for-apps/blob/main/09-multi-model-routing-api-platform.md)
 
 ## 1. What this POC demonstrates
 
